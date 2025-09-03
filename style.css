@@ -50,7 +50,7 @@ header a:hover::after {
   width: 100%;
 }
 
-/* Hero Section (index.html) */
+/* index.html */
 .start-page {
   display: flex;
   flex-direction: column;
@@ -230,3 +230,4 @@ footer {
   text-align: center;
   padding: 15px;
 }
+
