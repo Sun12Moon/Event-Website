@@ -50,7 +50,7 @@ header a:hover::after {
   width: 100%;
 }
 
-/* index.html */
+/* Hero Section (index.html) */
 .start-page {
   display: flex;
   flex-direction: column;
@@ -148,7 +148,7 @@ header a:hover::after {
   margin: 10px;
 }
 
-.cta-button {
+.exploreBtn {
   display: inline-block;
   margin-bottom: 20px;
   padding: 10px 20px;
@@ -159,9 +159,10 @@ header a:hover::after {
   transition: background 0.3s ease;
 }
 
-.cta-button:hover {
+.exploreBtn:hover {
   background: #bdf347;
   color: black;
+  cursor: pointer;
 }
 
 /* About Page */
@@ -230,4 +231,3 @@ footer {
   text-align: center;
   padding: 15px;
 }
-
